@@ -1,2 +1,1 @@
-# cool-video-gallery
-Cool Video Gallery 
+Cool Video Gallery Plugin Repository
